@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2eb12b9ea0bccc0b",
+        "id": "cd2c586f32008dc5",
         "type": "tabs",
         "children": [
           {
-            "id": "1e191ef36e50128f",
+            "id": "85d2864b95189b2c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,6 +120,14 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "d9ab3f213d7c0963",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
           }
         ]
       }
@@ -137,11 +145,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-omnivore:Omnivore": false
+      "obsidian-omnivore:Omnivore": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "b7f3c50ed6a79861",
   "lastOpenFiles": [
+    "2024-08-06.md",
+    "Omnivore/hotkeys.json",
     "Omnivore"
   ]
 }
