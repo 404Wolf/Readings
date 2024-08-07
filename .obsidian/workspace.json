@@ -129,14 +129,6 @@
                 "file": "Omnivore/Debugging in Neovim.md"
               }
             }
-          },
-          {
-            "id": "d9ab3f213d7c0963",
-            "type": "leaf",
-            "state": {
-              "type": "RSS_FEED",
-              "state": {}
-            }
           }
         ]
       }
@@ -157,10 +149,11 @@
       "obsidian-omnivore:Omnivore": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "simple-rss:Simple RSS": false
     }
   },
-  "active": "8b8aa68bbcae401d",
+  "active": "7b352ef65f0d1446",
   "lastOpenFiles": [
     "Omnivore/JSON Web Tokens.md",
     "Omnivore/Debugging in Neovim.md",

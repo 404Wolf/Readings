@@ -1,0 +1,15 @@
+{
+  "defaultPath": "/Blogs",
+  "defaultTemplate": "Source: {{item.link}}\n\n{{item.description}}",
+  "autoPull": true,
+  "timeInterval": 3,
+  "feeds": [],
+  "feedTypes": [
+    {
+      "name": "",
+      "feed": [],
+      "item": [],
+      "id": "dd72fd79-dfff-40ea-93cd-acfbc58569b6"
+    }
+  ]
+}
