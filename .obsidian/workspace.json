@@ -11,8 +11,12 @@
             "id": "8b8aa68bbcae401d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Omnivore/A beginner's guide to tmux - Enable Sysadmin.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Omnivore/A beginner's guide to tmux - Enable Sysadmin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Omnivore/A beginner's guide to tmux - Enable Sysadmin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Omnivore/A beginner's guide to tmux - Enable Sysadmin.md"
+              }
             }
           },
           {
@@ -152,8 +160,27 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7b352ef65f0d1446",
+  "active": "8b8aa68bbcae401d",
   "lastOpenFiles": [
+    "Omnivore/Exploring Nix Flakes- Build LaTeX Documents Reproducibly.md",
+    "Omnivore/A beginner's guide to tmux - Enable Sysadmin.md",
+    "Omnivore/React 19 RC – React.md",
+    "Omnivore/Monads.md",
+    "Omnivore/Debugging in Neovim.md",
+    "Omnivore/Tearing apart printf() – MaiZure's Projects.md",
+    "Omnivore/RFC 6749 - The OAuth 2.0 Authorization Framework.md",
+    "Omnivore/Google SignIn tutorial for React Native - Medium.md",
+    "Omnivore/Programming pearls.md",
+    "Omnivore/In Praise of Scripting.md",
+    "Omnivore/Create PDFs with Tailwind - DEV Community.md",
+    "Omnivore/Enable Hibernate on Pop OS -- Notes.md",
+    "Omnivore/Semantic Versioning 2.0.0 - Semantic Versioning.md",
+    "Omnivore/Progressive Web Apps.md",
+    "Omnivore/Active Directory.md",
+    "Omnivore/Node.js- Replace your .env file with this awesome tool at scale - by Tony - Medium.md",
+    "Omnivore/Syncthing Protocol.md",
+    "Omnivore/JSON Web Tokens.md",
+    "Omnivore/Google Readability Practices.md",
     "Omnivore/2024-07-27/React 19 RC – React.md",
     "Omnivore/2024-07-27",
     "Omnivore/2024-07-26/Monads.md",
@@ -168,22 +195,8 @@
     "Omnivore/2024-05-03",
     "Omnivore/2024-04-02/Google SignIn tutorial for React Native - Medium.md",
     "Omnivore/2024-04-02",
-    "Omnivore/2024-03-26/Programming pearls.md",
-    "Omnivore/2024-03-26/In Praise of Scripting.md",
     "Omnivore/2024-03-26",
-    "Omnivore/2024-03-24/Create PDFs with Tailwind - DEV Community.md",
     "Omnivore/2024-03-24",
-    "Omnivore/2024-03-10/Enable Hibernate on Pop OS -- Notes.md",
-    "Omnivore/2024-03-10",
-    "Omnivore/2024-03-08/A beginner's guide to tmux - Enable Sysadmin.md",
-    "Omnivore/2023-09-12/Semantic Versioning 2.0.0 - Semantic Versioning.md",
-    "Omnivore/2023-08-26/Progressive Web Apps.md",
-    "Omnivore/2023-08-23/Active Directory.md",
-    "Omnivore/2023-08-22/Node.js- Replace your .env file with this awesome tool at scale - by Tony - Medium.md",
-    "Omnivore/2023-08-14/Syncthing Protocol.md",
-    "Omnivore/2023-08-14/JSON Web Tokens.md",
-    "Omnivore/2023-08-14/Google Readability Practices.md",
-    "Blogs/Examples of left and right inverses.md",
-    "2024-08-06.md"
+    "Omnivore/2024-03-10"
   ]
 }
