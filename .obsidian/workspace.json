@@ -154,12 +154,10 @@
   },
   "active": "7b352ef65f0d1446",
   "lastOpenFiles": [
-    "Omnivore",
-    "Omnivore/A beginner's guide to tmux - Enable Sysadmin.md",
-    "Omnivore/Exploring Nix Flakes- Build LaTeX Documents Reproducibly.md",
     "Omnivore/React 19 RC – React.md",
     "Omnivore/Monads.md",
     "Omnivore/Debugging in Neovim.md",
+    "Omnivore/Exploring Nix Flakes- Build LaTeX Documents Reproducibly.md",
     "Omnivore/Tearing apart printf() – MaiZure's Projects.md",
     "Omnivore/RFC 6749 - The OAuth 2.0 Authorization Framework.md",
     "Omnivore/Google SignIn tutorial for React Native - Medium.md",
@@ -174,6 +172,8 @@
     "Omnivore/Syncthing Protocol.md",
     "Omnivore/JSON Web Tokens.md",
     "Omnivore/Google Readability Practices.md",
+    "Omnivore",
+    "Omnivore/A beginner's guide to tmux - Enable Sysadmin.md",
     "Omnivore/2024-07-27/React 19 RC – React.md",
     "Omnivore/2024-07-27",
     "Omnivore/2024-07-26/Monads.md",
@@ -188,7 +188,6 @@
     "Omnivore/2024-05-03",
     "Omnivore/2024-04-02",
     "Omnivore/2024-03-26",
-    "Omnivore/2024-03-24",
-    "Omnivore/2024-03-10"
+    "Omnivore/2024-03-24"
   ]
 }
