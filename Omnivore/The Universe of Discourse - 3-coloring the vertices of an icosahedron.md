@@ -1,0 +1,156 @@
+---
+id: d69bdf4c-f9d1-11ee-8c22-b761d1bd69ff
+title: "The Universe of Discourse : 3-coloring the vertices of an icosahedron"
+tags:
+  - RSS
+date_published: 2024-04-13 15:06:32
+---
+
+# The Universe of Discourse : 3-coloring the vertices of an icosahedron
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/the-universe-of-discourse-3-coloring-the-vertices-of-an-icosahed-18ed914f77f)
+[Read Original](https://blog.plover.com/math/colored-icosahedron.html)
+
+
+
+  
+ Mark Dominus (陶敏修)  
+[mjd@pobox.com](mailto:mjd@pobox.com)   
+
+![](https:&#x2F;&#x2F;proxy-prod.omnivore-image-cache.app&#x2F;100x100,s-ow_2Z9sJcJ_fyrVOrZvS0t6UEwvbYPK2-2Rj-2ZHJI&#x2F;https:&#x2F;&#x2F;pic.blog.plover.com&#x2F;TOP.jpg)  
+
+[About me](https:&#x2F;&#x2F;blog.plover.com&#x2F;meta&#x2F;about-me.html) 
+
+[RSS](https:&#x2F;&#x2F;blog.plover.com&#x2F;index.rss) [Atom](https:&#x2F;&#x2F;blog.plover.com&#x2F;index.atom) 
+
+[12 recent entries](https:&#x2F;&#x2F;blog.plover.com&#x2F;)  
+
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;math&#x2F;colored-icosahedron.html)       |
+| --------------------------------------------------------------- |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;geo&#x2F;Australia.html)                  |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;tech&#x2F;werewolf-hunting.html)          |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;math&#x2F;optimal-boxes.html)             |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;kids&#x2F;bollards.html)                  |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;games&#x2F;prey.html)                     |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;lang&#x2F;etym&#x2F;roundup-202402.html)       |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;misc&#x2F;dolmen.html)                    |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;calendar&#x2F;quaker-day-names.html)      |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;prog&#x2F;git&#x2F;hook-disaster.html)         |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;addenda&#x2F;202311.html)                 |
+| [](https:&#x2F;&#x2F;blog.plover.com&#x2F;lang&#x2F;etym&#x2F;czech-compass-points.html) |
+
+Archive:  
+
+| [2024](https:&#x2F;&#x2F;blog.plover.com&#x2F;2024&#x2F;):                                                                                                                                                                                           | J[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2024&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2024&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2024&#x2F;04&#x2F;)                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [2023](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;):                                                                                                                                                                                           | J[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;06&#x2F;)                                     |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;07&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2023&#x2F;12&#x2F;) |                                                                                                                                                                                                                                |
+| [2022](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;06&#x2F;) |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;07&#x2F;)A[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2022&#x2F;12&#x2F;)                                     |                                                                                                                                                                                                                                |
+| [2021](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;04&#x2F;)M[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;05&#x2F;)                                     |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;07&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2021&#x2F;12&#x2F;) |                                                                                                                                                                                                                                |
+| [2020](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;06&#x2F;) |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;07&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2020&#x2F;12&#x2F;) |                                                                                                                                                                                                                                |
+| [2019](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;01&#x2F;)F[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;06&#x2F;)                                     |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;07&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2019&#x2F;12&#x2F;) |                                                                                                                                                                                                                                |
+| [2018](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;06&#x2F;) |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;07&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2018&#x2F;12&#x2F;) |                                                                                                                                                                                                                                |
+| [2017](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;06&#x2F;) |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;07&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2017&#x2F;12&#x2F;) |                                                                                                                                                                                                                                |
+| [2016](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;):                                                                                                                                                                                           | J[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;06&#x2F;)                                     |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;07&#x2F;)ASO[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2016&#x2F;12&#x2F;)                                                                                                             |                                                                                                                                                                                                                                |
+| [2015](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;):                                                                                                                                                                                           | JF[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;06&#x2F;)                                                                         |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;07&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2015&#x2F;12&#x2F;) |                                                                                                                                                                                                                                |
+| [2014](https:&#x2F;&#x2F;blog.plover.com&#x2F;2014&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2014&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2014&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2014&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2014&#x2F;04&#x2F;)MJ                                                                         |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2014&#x2F;07&#x2F;)ASO[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2014&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2014&#x2F;12&#x2F;)                                                                                                             |                                                                                                                                                                                                                                |
+| [2013](https:&#x2F;&#x2F;blog.plover.com&#x2F;2013&#x2F;):                                                                                                                                                                                           | JFMAMJ                                                                                                                                                                                                                         |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2013&#x2F;07&#x2F;)A[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2013&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2013&#x2F;10&#x2F;)N[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2013&#x2F;12&#x2F;)                                                                         |                                                                                                                                                                                                                                |
+| [2012](https:&#x2F;&#x2F;blog.plover.com&#x2F;2012&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2012&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2012&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2012&#x2F;03&#x2F;)AMJ                                                                                                             |
+| | J[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2012&#x2F;08&#x2F;)SON[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2012&#x2F;12&#x2F;)                                                                                                                                                 |                                                                                                                                                                                                                                |
+| [2011](https:&#x2F;&#x2F;blog.plover.com&#x2F;2011&#x2F;):                                                                                                                                                                                           | JFMA[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2011&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2011&#x2F;06&#x2F;)                                                                                                                                                 |
+| | JASO[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2011&#x2F;11&#x2F;)D                                                                                                                                                                                     |                                                                                                                                                                                                                                |
+| [2010](https:&#x2F;&#x2F;blog.plover.com&#x2F;2010&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2010&#x2F;01&#x2F;)FMAMJ                                                                                                                                                                                     |
+| | J[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2010&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2010&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2010&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2010&#x2F;11&#x2F;)D                                                                         |                                                                                                                                                                                                                                |
+| [2009](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;03&#x2F;)A[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;06&#x2F;)                                     |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;07&#x2F;)A[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;09&#x2F;)ON[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2009&#x2F;12&#x2F;)                                                                                                             |                                                                                                                                                                                                                                |
+| [2008](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;06&#x2F;) |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;07&#x2F;)A[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2008&#x2F;11&#x2F;)D                                                                         |                                                                                                                                                                                                                                |
+| [2007](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;06&#x2F;) |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;07&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;08&#x2F;)[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2007&#x2F;12&#x2F;) |                                                                                                                                                                                                                                |
+| [2006](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;):                                                                                                                                                                                           | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;01&#x2F;)[F](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;02&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;03&#x2F;)[A](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;04&#x2F;)[M](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;05&#x2F;)[J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;06&#x2F;) |
+| | [J](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;07&#x2F;)A[S](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;09&#x2F;)[O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2006&#x2F;12&#x2F;)                                     |                                                                                                                                                                                                                                |
+| [2005](https:&#x2F;&#x2F;blog.plover.com&#x2F;2005&#x2F;):                                                                                                                                                                                           | [O](https:&#x2F;&#x2F;blog.plover.com&#x2F;2005&#x2F;10&#x2F;)[N](https:&#x2F;&#x2F;blog.plover.com&#x2F;2005&#x2F;11&#x2F;)[D](https:&#x2F;&#x2F;blog.plover.com&#x2F;2005&#x2F;12&#x2F;)                                                                                                                |
+
+  
+---
+
+Subtopics:  
+
+| [Mathematics](https:&#x2F;&#x2F;blog.plover.com&#x2F;math&#x2F;)      | 237 |
+| ------------------------------------------------- | --- |
+| [Programming](https:&#x2F;&#x2F;blog.plover.com&#x2F;prog&#x2F;)      | 99  |
+| [Language](https:&#x2F;&#x2F;blog.plover.com&#x2F;lang&#x2F;)         | 92  |
+| [Miscellaneous](https:&#x2F;&#x2F;blog.plover.com&#x2F;misc&#x2F;)    | 67  |
+| [Book](https:&#x2F;&#x2F;blog.plover.com&#x2F;book&#x2F;)             | 49  |
+| [Tech](https:&#x2F;&#x2F;blog.plover.com&#x2F;tech&#x2F;)             | 48  |
+| [Etymology](https:&#x2F;&#x2F;blog.plover.com&#x2F;lang&#x2F;etym&#x2F;)   | 34  |
+| [Haskell](https:&#x2F;&#x2F;blog.plover.com&#x2F;prog&#x2F;haskell&#x2F;)  | 33  |
+| [Oops](https:&#x2F;&#x2F;blog.plover.com&#x2F;oops&#x2F;)             | 30  |
+| [Unix](https:&#x2F;&#x2F;blog.plover.com&#x2F;Unix&#x2F;)             | 27  |
+| [Cosmic Call](https:&#x2F;&#x2F;blog.plover.com&#x2F;aliens&#x2F;dd&#x2F;) | 25  |
+| [Math SE](https:&#x2F;&#x2F;blog.plover.com&#x2F;math&#x2F;se&#x2F;)       | 23  |
+| [Physics](https:&#x2F;&#x2F;blog.plover.com&#x2F;physics&#x2F;)       | 21  |
+| [Law](https:&#x2F;&#x2F;blog.plover.com&#x2F;law&#x2F;)               | 21  |
+| [Perl](https:&#x2F;&#x2F;blog.plover.com&#x2F;prog&#x2F;perl&#x2F;)        | 17  |
+| [Biology](https:&#x2F;&#x2F;blog.plover.com&#x2F;bio&#x2F;)           | 15  |
+
+![](https:&#x2F;&#x2F;proxy-prod.omnivore-image-cache.app&#x2F;0x0,sDucSot2FffdhecehaTytAMrhnphQmFiy_RuilMEG4gw&#x2F;https:&#x2F;&#x2F;pic.blog.plover.com&#x2F;buttons&#x2F;mjd-universe.png) [![Higher-Order Perl](https:&#x2F;&#x2F;proxy-prod.omnivore-image-cache.app&#x2F;0x0,s0DF4x_Z0-RUwmylxYxnGedwmRRuSHiesLYnLSrQY9Jw&#x2F;https:&#x2F;&#x2F;pic.blog.plover.com&#x2F;buttons&#x2F;HOP-BUTTON.png)](http:&#x2F;&#x2F;hop.perl.plover.com&#x2F;) [![Blosxom](https:&#x2F;&#x2F;proxy-prod.omnivore-image-cache.app&#x2F;0x0,sHDQHuzSEyOTVLHIgu8-rjbErVs96eKITOMx5TXr0YJ4&#x2F;https:&#x2F;&#x2F;pic.blog.plover.com&#x2F;buttons&#x2F;blosxom-sux.png)](http:&#x2F;&#x2F;blosxom.sourceforge.net&#x2F;) 
+
+Comments disabled
+
+[3-coloring the vertices of an icosahedron](https:&#x2F;&#x2F;blog.plover.com&#x2F;math&#x2F;colored-icosahedron.html)   
+
+I don&#39;t know that I have a point about this, other than that it makes me sad.
+
+[A recent Math SE post (since deleted) asked](https:&#x2F;&#x2F;math.stackexchange.com&#x2F;q&#x2F;4897997&#x2F;25554):
+
+&gt; How many different ways are there to color the vertices of the icosahedron with 3 colors such that no two adjacent vertices have the same color?
+
+I would love to know what was going on here. Is this homework? Just someone idly wondering?
+
+Because the interesting thing about this question is (assuming that the person knows what an icosahedron is, etc.) it should be solvable in sixty seconds by anyone who makes the least effort. If you don&#39;t already see it, you should try. Try what? Just take an icosahedron, color the vertices a little, see what happens. Here, I&#39;ll help you out, here&#39;s a view of part of the end of an icosahedron, although I left out most of it. Try to color it with 3 colors so that no two adjacent vertices have the same color, surely that will be no harder than coloring the whole icosahedron.
+
+![](https:&#x2F;&#x2F;proxy-prod.omnivore-image-cache.app&#x2F;0x0,sFGrolO4RZrD_IO2lwlbDiRL4m7Dh3hHDapPczaQkKjI&#x2F;https:&#x2F;&#x2F;pic.blog.plover.com&#x2F;math&#x2F;colored-icosahedron&#x2F;pentagon.svg)
+
+The explanation below is a little belabored, it&#39;s what OP would have discovered in seconds if they had actually tried the exercise.
+
+Let&#39;s color the middle vertex, say blue.
+
+![](https:&#x2F;&#x2F;proxy-prod.omnivore-image-cache.app&#x2F;0x0,s2ZSFBlVmaJ-VYJJka4J3jXzj2qtiG7fcaDH0mFG73n0&#x2F;https:&#x2F;&#x2F;pic.blog.plover.com&#x2F;math&#x2F;colored-icosahedron&#x2F;pentagon-2.svg)
+
+The five vertices around the edge can&#39;t be blue, they must be the other two colors, say red and green, and the two colors must alternate:
+
+![](https:&#x2F;&#x2F;proxy-prod.omnivore-image-cache.app&#x2F;0x0,sjfXfaIR5x7oXaw1I2knLa-lOIaiDp4ISjfgs5EJKRf0&#x2F;https:&#x2F;&#x2F;pic.blog.plover.com&#x2F;math&#x2F;colored-icosahedron&#x2F;pentagon-3.svg)
+
+Ooops, there&#39;s no color left for the fifth vertex.
+
+![](https:&#x2F;&#x2F;proxy-prod.omnivore-image-cache.app&#x2F;0x0,sQli7RFIsn1KDPq11djfpHDZgT6deoHAbR8i4JF8aV_M&#x2F;https:&#x2F;&#x2F;pic.blog.plover.com&#x2F;math&#x2F;colored-icosahedron&#x2F;pentagon-4.svg)
+
+The phrasing of the question, “how many” makes the problem sound harder than it is: the answer is zero because we can&#39;t even color_half_ the icosahedron.
+
+If OP had even tried, even a little bit, they could have discovered this. They didn&#39;t need to have had the bright idea of looking at a a partial icosahedron. They could have grabbed one of the pictures from Wikipedia and started coloring the vertices. They would have gotten stuck the same way. They didn&#39;t have to try starting in the middle of my diagram, starting at the edge works too: if the top vertex is blue, the three below it must be green-red-green, and then the bottom two are forced to be blue, which isn&#39;t allowed. If you _just try it_, you win immediately. The only way to lose is not to play.
+
+Before the post was deleted I suggested in a comment “Give it a try, see what happens”. I genuinely hoped this might be helpful. I&#39;ll probably never know if it was.
+
+Like I said, I would love to know what was going on here. I think maybe this person could have used a dose of Lower Mathematics.
+
+Just now I wondered for the first time: what would it look like if I were to try to list the principles of Lower Mathematics? “Try it and see” is definitely in the list.
+
+Then I thought: _How To Solve It_ has that sort of list and something like “try it and see” is probably on it. So I took it off the shelf and found: “Draw a figure”, “If you cannot solve the proposed problem”, “Is it possible to satisfy the condition?”. I didn&#39;t find anything called “fuck around with it and see what you learn” but it is probably in there under a different name, I haven&#39;t read the book in a long time. To this important principle I would like to add “fuck around with it and maybe you will stumble across the answer by accident” as happened here.
+
+Mathematics education is too much method, not enough heuristic.
+
+_\[[Other articles in category &#x2F;math](https:&#x2F;&#x2F;blog.plover.com&#x2F;math)\] [permanent link](https:&#x2F;&#x2F;blog.plover.com&#x2F;math&#x2F;colored-icosahedron.html)_ 
+
+  

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnivore/Debugging in Neovim.md",
+                "file": "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnivore/Debugging in Neovim.md",
+                "file": "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnivore/Debugging in Neovim.md",
+                "file": "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omnivore/Debugging in Neovim.md"
+                "file": "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md"
               }
             }
           }
@@ -150,42 +150,44 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "simple-rss:Simple RSS": false
+      "simple-rss:Simple RSS": false,
+      "obsidian-omnivore-rss:Omnivore": false
     }
   },
   "active": "7b352ef65f0d1446",
   "lastOpenFiles": [
-    "Omnivore/JSON Web Tokens.md",
-    "Omnivore/Debugging in Neovim.md",
-    "Omnivore/React 19 RC – React.md",
-    "Omnivore/Monads.md",
-    "Omnivore/Exploring Nix Flakes- Build LaTeX Documents Reproducibly.md",
-    "Omnivore/Tearing apart printf() – MaiZure's Projects.md",
-    "Omnivore/RFC 6749 - The OAuth 2.0 Authorization Framework.md",
-    "Omnivore/Google SignIn tutorial for React Native - Medium.md",
-    "Omnivore/Programming pearls.md",
-    "Omnivore/In Praise of Scripting.md",
-    "Omnivore/Create PDFs with Tailwind - DEV Community.md",
-    "Omnivore/Enable Hibernate on Pop OS -- Notes.md",
-    "Omnivore/Semantic Versioning 2.0.0 - Semantic Versioning.md",
-    "Omnivore/Progressive Web Apps.md",
-    "Omnivore/Active Directory.md",
-    "Omnivore/Node.js- Replace your .env file with this awesome tool at scale - by Tony - Medium.md",
-    "Omnivore/Syncthing Protocol.md",
-    "Omnivore/Google Readability Practices.md",
+    "Omnivore/The essence of Taylor’s theorem — Eugene Ha.md",
+    "Omnivore/Calculating all possible rankings for The Circle USA Season 6.md",
+    "Omnivore/Tiny Logger- write calmly-4ca2bdc8-0f2b-11ef-89ad-9b0c2e70d1c6.md",
+    "Omnivore/Researching file formats 37- Portable Embosser Format · BITS BLOG ✴ Ashley Blewer.md",
+    "Omnivore/AI-Powered Voice User Interfaces and Deepgram's API at Cloudflare Hackathon #0to1AI.md",
+    "Omnivore/Voice AI interactions – Deepgram & Groq #0to1AI #LIVEcoding.md",
+    "Omnivore/Blair Frandeen-5a10ad8c-0d99-11ef-9ccf-87911ceebd3f.md",
+    "Omnivore/A tutorial on Dijkstra’s algorithm — Eugene Ha.md",
+    "Omnivore/Cooperative Leaders and Scholars, Community Venues and Cultural Land Trusts — Riley Wong.md",
+    "Omnivore/Groq - Ultra-Fast LPU- Redefining LLM Inference - Interview with Sunny Madra, Head of Cloud.md",
+    "Omnivore/Stopping thing-a-month.md",
+    "Omnivore/I'm hopeful but wary of -empathic- AI - nicole@web.md",
+    "Omnivore/Wesley Aptekar-Cassels's review of Campus Sex, Campus Security - BookWyrm.md",
+    "Omnivore/Jonathan New - Kitchen renovation thoughts.md",
+    "Omnivore/#17- Seriously, what is Intelligence- - by John Loeber.md",
+    "Omnivore/Website Wallpaper - cceckman of the Internet.md",
+    "Omnivore/zeptocore - schollz.md",
+    "Omnivore/Researching file formats 36- Windows Phone Installation Package · BITS BLOG ✴ Ashley Blewer.md",
+    "Omnivore/Art, games, music, zines, and a list of fictional badgers - MetaFilter.md",
+    "Omnivore/Books about creativity.md",
+    "Omnivore/W12 - Starting a new role - Experiments in managing perfectionism.md",
+    "Omnivore/Replacing the Anubis CGM Battery ⁑ Wesley’s Notebook.md",
+    "Omnivore/Jinny Cho.md",
+    "Omnivore/New photo album- Miscelaneous Bavaria -- steve gattuso.md",
+    "Omnivore/We Took Part in Cloudflare AI Hackathon- Is Bootstrapping Hot Again- #0to1AI Vlog.md",
+    "Omnivore/Update - 2024-04-30.md",
     "Omnivore",
-    "Omnivore/A beginner's guide to tmux - Enable Sysadmin.md",
-    "Omnivore/2024-07-27/React 19 RC – React.md",
     "Omnivore/2024-07-27",
-    "Omnivore/2024-07-26/Monads.md",
     "Omnivore/2024-07-26",
-    "Omnivore/2024-07-17/Debugging in Neovim.md",
     "Omnivore/2024-07-17",
-    "Omnivore/2024-07-13/Exploring Nix Flakes- Build LaTeX Documents Reproducibly.md",
     "Omnivore/2024-07-13",
-    "Omnivore/2024-07-10/Tearing apart printf() – MaiZure's Projects.md",
     "Omnivore/2024-07-10",
-    "Omnivore/2024-05-03/RFC 6749 - The OAuth 2.0 Authorization Framework.md",
     "Omnivore/2024-05-03",
     "Omnivore/2024-04-02",
     "Omnivore/2024-03-26",
