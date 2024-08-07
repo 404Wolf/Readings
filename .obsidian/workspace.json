@@ -32,9 +32,11 @@
             "id": "b7f3c50ed6a79861",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Blogs/Examples of left and right inverses.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blogs/Examples of left and right inverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blogs/Examples of left and right inverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Blogs/Examples of left and right inverses.md"
+              }
             }
           },
           {
@@ -153,6 +159,9 @@
   },
   "active": "b7f3c50ed6a79861",
   "lastOpenFiles": [
+    "Blogs/Examples of left and right inverses.md",
+    "Blogs/Recurse",
+    "Blogs",
     "2024-08-06.md",
     "Omnivore/hotkeys.json",
     "Omnivore"
