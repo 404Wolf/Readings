@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
+                "file": "Omnivore/404wolf.com.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
+                "file": "Omnivore/404wolf.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
+                "file": "Omnivore/404wolf.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md"
+                "file": "Omnivore/404wolf.com.md"
               }
             }
           }
@@ -152,8 +152,9 @@
       "obsidian-omnivore:Omnivore": false
     }
   },
-  "active": "7b352ef65f0d1446",
+  "active": "8b8aa68bbcae401d",
   "lastOpenFiles": [
+    "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
     "Omnivore/Not Found-1a024c3b-086b-42ef-9ba7-60b2b7cf2e01.md",
     "Omnivore/from -ASAP- to -betimes- - MetaFilter.md",
     "Omnivore/404wolf.com.md",
@@ -179,7 +180,6 @@
     "Omnivore/Dark mode basics - cceckman, from the Internet.md",
     "Omnivore/Middle Age and Absences - Cogito, Ergo Sumana.md",
     "Omnivore/Memories of some fantastic internships.md",
-    "Omnivore/Creating a Rotation-based Indicator.md",
     "Omnivore",
     "Omnivore/2024-07-27",
     "Omnivore/2024-07-26",
