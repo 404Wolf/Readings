@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd2c586f32008dc5",
+        "id": "e0238ac0a12219cb",
         "type": "tabs",
         "children": [
           {
-            "id": "85d2864b95189b2c",
+            "id": "8b8aa68bbcae401d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -28,18 +28,6 @@
         "id": "e96581378c4428b8",
         "type": "tabs",
         "children": [
-          {
-            "id": "b7f3c50ed6a79861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blogs/Examples of left and right inverses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "bde2d12a11ebe63a",
             "type": "leaf",
@@ -62,12 +50,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7b352ef65f0d1446",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 355.5
   },
   "right": {
     "id": "e9c635f263e69a96",
@@ -83,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blogs/Examples of left and right inverses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blogs/Examples of left and right inverses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +154,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b7f3c50ed6a79861",
+  "active": "7b352ef65f0d1446",
   "lastOpenFiles": [
     "Blogs/Examples of left and right inverses.md",
     "Blogs/Recurse",
