@@ -4,7 +4,7 @@ title: 404wolf.com
 tags:
   - RSS
 ---
-aoao
+
 # 404wolf.com
 #Omnivore
 
@@ -14,6 +14,14 @@ aoao
 
 
 ##  Predetermined Text Widths 
+
+## Contents
+
+1. [Predetermined Title Background Widths](#predetermined-title-background-widths)  
+   1. [The issue](#the-issue)  
+   2. [The solution](#the-solution)
+
+---
 
 ## Predetermined Title Background Widths
 
@@ -25,19 +33,16 @@ For titles on my website that are type-written after loading, I wanted the backg
 
 To solve this issue, I originally tried to compute the width by using a basic &#x60;document.createElement&#x60; method that I wrote (with some GPT help--I didn&#39;t know about &#x60;.offsetWidth&#x60; before this!).
 
-&#x60;&#x60;&#x60;reasonml
-function getDummyAreaWidth(styles: string, classes: string, type: string, text: string) {
-    const dummyArea &#x3D; document.createElement(type);
-    dummyArea.textContent &#x3D; text;
-    dummyArea.setAttribute(&quot;style&quot;, styles);
-    dummyArea.className &#x3D; classes;
-    document.body.appendChild(dummyArea);
-    const width &#x3D; dummyArea.offsetWidth;
-    document.body.removeChild(dummyArea);
-    return width;
-}; 
-
-&#x60;&#x60;&#x60;
+&#x60;1function getDummyAreaWidth(styles: string, classes: string, type: string, text: string) {
+2    const dummyArea &#x3D; document.createElement(type);
+3    dummyArea.textContent &#x3D; text;
+4    dummyArea.setAttribute(&quot;style&quot;, styles);
+5    dummyArea.className &#x3D; classes;
+6    document.body.appendChild(dummyArea);
+7    const width &#x3D; dummyArea.offsetWidth;
+8    document.body.removeChild(dummyArea);
+9    return width;
+10}; &#x60;
 
 Basically, we create an element, set the styles and classes that would cause the width to change, and then yoink it&#39;s width. The idea is that I&#39;d then use this function for the title components to give them fixed predetermined widths. However, since &#x60;typewriter-effect&#x60; uses some wrapper classes and I&#39;m using &#x60;tailwind&#x60;, it wasn&#39;t computing the widths properly. I might have been able to troubleshoot and fix it, but instead I opted for a simpler solution.
 
@@ -47,29 +52,26 @@ Instead of using a computed width value, I figured out that it&#39;d be easier t
 
 The actual code for my homepage&#39;s main header was super simple to update with this idea, and worked right away!
 
-&#x60;&#x60;&#x60;xquery
-import Typewriter from &quot;typewriter-effect&quot;;
-
-const Greeter &#x3D; () &#x3D;&gt; {
-    return (
-        &lt;div className&#x3D;&quot;relative&quot;&gt; 
-            &lt;span className&#x3D;&quot;text-transparent&quot;&gt; {&quot;Hi! I&#39;m Wolf Mermelstein&quot;} &lt;&#x2F;span&gt;
-            &lt;span className&#x3D;&quot;absolute left-0&quot; style&#x3D;{{ whiteSpace: &quot;nowrap&quot; }}&gt;
-                &lt;Typewriter
-                    onInit&#x3D;{(typewriter) &#x3D;&gt; {
-                        typewriter
-                            .typeString(&quot;Hi! &quot;)
-                            .pauseFor(700)
-                            .typeString(&quot;I&#39;m Wolf Mermelstein&quot;)
-                            .start();
-                    }}
-                    options&#x3D;{{ delay: 70, cursor: &quot;&quot;, autoStart: true }}
-                &#x2F;&gt;
-            &lt;&#x2F;span&gt;
-        &lt;&#x2F;div&gt;
-    );
-};
-
-export default Greeter;
-
-&#x60;&#x60;&#x60;
+&#x60;1import Typewriter from &quot;typewriter-effect&quot;;
+2
+3const Greeter &#x3D; () &#x3D;&gt; {
+4    return (
+5        &lt;div className&#x3D;&quot;relative&quot;&gt; 
+6            &lt;span className&#x3D;&quot;text-transparent&quot;&gt; {&quot;Hi! I&#39;m Wolf Mermelstein&quot;} &lt;&#x2F;span&gt;
+7            &lt;span className&#x3D;&quot;absolute left-0&quot; style&#x3D;{{ whiteSpace: &quot;nowrap&quot; }}&gt;
+8                &lt;Typewriter
+9                    onInit&#x3D;{(typewriter) &#x3D;&gt; {
+10                        typewriter
+11                            .typeString(&quot;Hi! &quot;)
+12                            .pauseFor(700)
+13                            .typeString(&quot;I&#39;m Wolf Mermelstein&quot;)
+14                            .start();
+15                    }}
+16                    options&#x3D;{{ delay: 70, cursor: &quot;&quot;, autoStart: true }}
+17                &#x2F;&gt;
+18            &lt;&#x2F;span&gt;
+19        &lt;&#x2F;div&gt;
+20    );
+21};
+22
+23export default Greeter;&#x60;
