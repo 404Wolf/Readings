@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Omnivore/404wolf.com.md",
+                "file": "2024-08-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Omnivore/404wolf.com.md",
+                "file": "2024-08-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Omnivore/404wolf.com.md",
+                "file": "2024-08-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Omnivore/404wolf.com.md"
+                "file": "2024-08-08.md"
               }
             }
           }
@@ -154,6 +154,8 @@
   },
   "active": "8b8aa68bbcae401d",
   "lastOpenFiles": [
+    "Omnivore/404wolf.com.md",
+    "2024-08-08.md",
     "Omnivore/Generating Mazes — Andrew Healey.md",
     "Omnivore/Tim Walz's Policy Approach - Cogito, Ergo Sumana.md",
     "Omnivore/The Universe of Disco - Stuff I wanted to say to the historic district people but didn't.md",
@@ -161,7 +163,6 @@
     "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
     "Omnivore/Not Found-1a024c3b-086b-42ef-9ba7-60b2b7cf2e01.md",
     "Omnivore/from -ASAP- to -betimes- - MetaFilter.md",
-    "Omnivore/404wolf.com.md",
     "Omnivore/The Universe of Disco - Look at what they tried to take from us.md",
     "Omnivore/Merge Two Sorted Linked Lists.md",
     "Omnivore/The Universe of Disco - Examples of left and right inverses.md",
@@ -179,7 +180,6 @@
     "Omnivore/MOGs.md",
     "Omnivore/Links #10 - Bryan Braun - Frontend Developer.md",
     "Omnivore/Synthesizer Notes.md",
-    "Omnivore/Empowering End Users with Local Models.md",
     "Omnivore",
     "Omnivore/2024-07-27",
     "Omnivore/2024-07-26",
