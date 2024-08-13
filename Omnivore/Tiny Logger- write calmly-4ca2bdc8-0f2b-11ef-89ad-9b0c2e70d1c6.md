@@ -1,0 +1,31 @@
+---
+id: 4ca2bdc8-0f2b-11ef-89ad-9b0c2e70d1c6
+title: "Tiny Logger: write calmly"
+tags:
+  - RSS
+date_published: 2024-05-10 17:01:46
+---
+
+# Tiny Logger: write calmly
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/tiny-logger-write-calmly-18f64ff69a9)
+[Read Original](https://www.tinylogger.com/max/5tprpbxRtZOyYccO)
+
+
+
+### [Going Through The Motions](https:&#x2F;&#x2F;www.tinylogger.com&#x2F;max&#x2F;5tprpbxRtZOyYccO)
+
+My high school made each student pick a [major](https:&#x2F;&#x2F;www.bths.edu&#x2F;apps&#x2F;pages&#x2F;index.jsp?uREC%5FID&#x3D;222176&amp;type&#x3D;d) that determined which AP classes and electives we were able to take. I didn&#39;t want to pick one of our six engineering majors, so I chose to be a Math major, which meant that in my junior year, I was placed in a Discrete Mathematics class. It was by far the hardest class I had ever taken. The concepts were mind-boggling, and the instruction was much more abstract than I was used to. The teacher wasn&#39;t great, but [I&#39;m not here to complain](https:&#x2F;&#x2F;www.tinylogger.com&#x2F;max&#x2F;eWqWt0zcFfRg4Hw5). Up to that point, I kept up an A-minus average with little effort, and was used to the material coming easily when I really cared. Discrete Math was the first class in which I felt truly overwhelmed. I came in every day and sat in the front row trying to force myself to focus (which didn&#39;t stop me from [falling asleep](https:&#x2F;&#x2F;www.tinylogger.com&#x2F;max&#x2F;CpufF6w1kTAgQvgm) a few times.) I hobbled along, taking copious notes I promised myself I&#39;d review at home and never did. The concepts seemed out of reach, so I tried to memorize patterns, which I struggled to regurgitate on tests. At the end of the first quarter, I got a 55\. This was a complete shock to me. I think it was the lowest grade NYC teachers were allowed to give. In my head, it was reserved for students smoking cigarettes in the back of the classroom, or those who didn&#39;t bother to show up at all. I remember showing the teacher my notebook filled with all the notes he had written on the board. &quot;I&#39;m trying my best, doing everything I&#39;m _supposed to_ do,&quot; I said, &quot;shouldn&#39;t that be enough for a high school class?&quot; He wasn&#39;t moved. I ended up barely passing the class, and it wasn&#39;t because I understood Discrete Mathematics any better. I think I got better at memorizing patterns for the tests, or perhaps the teacher realized that a majority of the class wasn&#39;t keeping up. I moved on and tried to put the experience out of my mind.
+
+---
+
+When people ask me what I&#39;m working on, I sometimes cringe, because I never feel like I&#39;m doing enough. I feel like I work a lot, and I don&#39;t slack off on my work. But I have little to show for it. So, I&#39;ve been thinking a lot about making progress versus doing things that feel productive. You might have heard of &quot;productive procrastination&quot; or [&quot;displacement procrastination&quot;](https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Displacement%5Factivity#:~:text&#x3D;More%20recently%20the%20term%20), where you tackle low-priority tasks to avoid an important scary one; for example, cleaning your apartment to put off making a budget or writing a scary email. I think I&#39;ve been doing a lot of this in my life: putting in what _feels_ like honest work, rather than daring towards my goals. Buying more synthesizers instead of finishing songs, implementing [hot new tools](https:&#x2F;&#x2F;www.tinylogger.com&#x2F;max&#x2F;Q9dCtTznhua1gXKE) rather than shipping products. Taking copious notes rather than really engaging with scary, difficult concepts.[Saron Yitbarek](https:&#x2F;&#x2F;saron.io&#x2F;), an entrepreneur and community builder, had a great snippet about this in an [IndieHackers interview](https:&#x2F;&#x2F;www.indiehackers.com&#x2F;podcast&#x2F;057-saron-yitbarek-of-codenewbie):
+
+I’m talking to my husband, he said to me, “...if you could only do one thing, just focus on one of those six projects you’re doing, how does that make you feel?”
+
+And I said to myself, “Why does that sound so scary?” And it sounded so scary to me because if I do all the things and something fails, it’s not my fault. I was busy. I’m doing the best I can. I’m obviously in these all these projects. If one thing falls through, then I’m still good. I can still say that I tried. But if I do one thing and that falls through, that fails, I have no excuse.
+
+And I realized that this whole time, I thought that I was optimizing for the success of the business and I was optimizing for the community. Really I was optimizing for my own ego. I was optimizing for the feeling of trying, not actually succeeding.&quot;
+
+What a great realization. I too have been &quot;optimizing for the feeling of trying.&quot; Give me the grade, teacher! I show up and sit in the front row and take notes. Shouldn&#39;t that be enough? So, I&#39;ve been trying to get more judicious and productive around my efforts. I recently finished the often-recommended book [The One Thing](https:&#x2F;&#x2F;www.amazon.com&#x2F;ONE-Thing-Surprisingly-Extraordinary-Results&#x2F;dp&#x2F;1885167776), which encourages you to constantly ask, in essence, &quot;what is the most important step you can take towards your most important goal?&quot; I track my programming tasks on a Trello board. I stopped buying new synthesizers and am focusing on finishing more pieces, I stopped taking programming tutorials for hot new tools, I&#39;m organizing my days around [things I care about](https:&#x2F;&#x2F;www.tinylogger.com&#x2F;max&#x2F;5SJLvWOCg13YdHUp), I&#39;m building a blogging platform that nudges me to get more writing out and have publicly committed to [write more](https:&#x2F;&#x2F;www.tinylogger.com&#x2F;max&#x2F;B1jP4fVepA6yEkHE). Without being extremely focused on staying focused, my days get away from me, and I get nowhere. I&#39;ve also been more cognizant of the broad trend of _seeming_ like you&#39;re doing the right thing versus actually doing it. Are you moving closer to your goals, or just going through the motions so you could feel like you did the work? It&#39;s a lifelong journey, but slowly, I&#39;m starting to turn in the right direction.
