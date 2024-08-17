@@ -11,8 +11,12 @@
             "id": "8b8aa68bbcae401d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Omnivore/Untold stories from 6 years working on Python packaging- Links and references from Sumana Harihar....md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Omnivore/Untold stories from 6 years working on Python packaging- Links and references from Sumana Harihar....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Omnivore/Untold stories from 6 years working on Python packaging- Links and references from Sumana Harihar....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Omnivore/Untold stories from 6 years working on Python packaging- Links and references from Sumana Harihar....md"
+              }
             }
           }
         ]
@@ -146,6 +154,14 @@
   },
   "active": "8b8aa68bbcae401d",
   "lastOpenFiles": [
+    "Omnivore/Example Domain.md",
+    "Omnivore/Ce qui me parle dernièrement — edith viau- documentation.md",
+    "Omnivore/Publish then Program - cceckman, from the Internet.md",
+    "Omnivore/Embedding Scripts in Nix Flakes.md",
+    "Omnivore/Bad Idea- Use Symbolic Evaluation to Lift LAPACK Fortran Code back into Math · saulshanabrook-sau....md",
+    "Omnivore/Analog video is surprisingly squishy - the weightless state.md",
+    "Omnivore/teachers who need to rest and recover - MetaFilter.md",
+    "Omnivore/Weeknotes #12 (Week 32, 2024) - Olu Online.md",
     "Omnivore/bensch.ac-8403b996-b87b-4e32-997a-0edcc4fdca3a.md",
     "Omnivore/The Universe of Disco - Poor Richard's Almanack.md",
     "Omnivore/Linux process tricks.md",
@@ -164,14 +180,6 @@
     "Omnivore/Generating Mazes — Andrew Healey.md",
     "Omnivore/Tim Walz's Policy Approach - Cogito, Ergo Sumana.md",
     "Omnivore/The Universe of Disco - Stuff I wanted to say to the historic district people but didn't.md",
-    "Omnivore/Cafés of Cambridge.md",
-    "Omnivore/The Universe of Discourse - Children and adults see in very different ways.md",
-    "Omnivore/Not Found-1a024c3b-086b-42ef-9ba7-60b2b7cf2e01.md",
-    "Omnivore/from -ASAP- to -betimes- - MetaFilter.md",
-    "Omnivore/The Universe of Disco - Look at what they tried to take from us.md",
-    "Omnivore/Merge Two Sorted Linked Lists.md",
-    "Omnivore/The Universe of Disco - Examples of left and right inverses.md",
-    "Omnivore/-Vexation is uncommon, in a creature as old as I am.- - MetaFilter.md",
     "Omnivore",
     "Omnivore/2024-07-27",
     "Omnivore/2024-07-26",
