@@ -7,7 +7,7 @@
   "customQuery": "in:all",
   "template": "# {{{title}}}\n#Omnivore\n\n[Read on Omnivore]({{{omnivoreUrl}}})\n[Read Original]({{{originalUrl}}})\n{{tags}}\n\n{{#highlights.length}}\n## Highlights\n\n{{#highlights}}\n> {{{text}}} [⤴️]({{{highlightUrl}}}) {{#labels}} #{{name}} {{/labels}} ^{{{highlightID}}}\n{{#note}}\n\n{{{note}}}\n{{/note}}\n\n{{/highlights}}\n{{/highlights.length}}\n\n{{content}}",
   "highlightOrder": "LOCATION",
-  "syncing": false,
+  "syncing": true,
   "folder": "Omnivore/",
   "folderDateFormat": "yyyy-MM-dd",
   "endpoint": "https://api-prod.omnivore.app/api/graphql",
@@ -17,7 +17,7 @@
   "version": "1.10.4",
   "isSingleFile": false,
   "frequency": 4,
-  "intervalId": 11,
+  "intervalId": 9,
   "frontMatterVariables": [
     "title",
     "tags",
